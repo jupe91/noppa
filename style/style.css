@@ -1,0 +1,11 @@
+div#container {
+    display: flex;
+    height: 50vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    margin: 6em;
+}
